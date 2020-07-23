@@ -1,5 +1,9 @@
 # vue-weather
 
+## Demo
+
+See [Demo](https://hweather.vercel.app/)
+
 ## Project setup
 
 ```
@@ -14,10 +18,6 @@ npm run serve
 
 ### Compiles and minifies for production
 
-```
+````
 npm run build
-```
-
-### Customize configuration
-
-See [Demo](https://hweather.vercel.app/).
+````
