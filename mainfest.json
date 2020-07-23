@@ -1,0 +1,8 @@
+{
+  "name": "Amazing Weather App",
+  "short_name": "Weather",
+  "description": "Awesome application that give you the current weather",
+  "theme_color": "#fefefe",
+  "background_color": "#333333",
+  "display": "standalone"
+}
